@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The genealogy of the Lairds of Ednem and Duntreth, from the year of God 1063, to the year 1699 and more particularly of Duntreth, and the families that married with Duntreth, during the said time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03560</idno>
+            <idno type="STC">Wing G484A</idno>
+            <idno type="STC">ESTC R177353</idno>
+            <idno type="EEBO-CITATION">52211828</idno>
+            <idno type="OCLC">ocm 52211828</idno>
+            <idno type="VID">175680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175680)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The genealogy of the Lairds of Ednem and Duntreth, from the year of God 1063, to the year 1699 and more particularly of Duntreth, and the families that married with Duntreth, during the said time.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Sanders, one of His Majesties printers,</publisher>
+                  <pubPlace>Glasgovv :</pubPlace>
+                  <date>Anmo [sic] Dom. 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The text contains blank spaces throughout where names have been omitted.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edmondson family --  Early works to 1800.</term>
+               <term>Ednam (Scotland) --  Early works to 1800.</term>
+               <term>Duntreath Castle (Stirling, Scotland) --  Early works to 1800.</term>
+               <term>Scotland --  Genealogy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175680:1"/>
+            <pb facs="tcp:175680:1" rendition="simple:additions"/>
+            <p>THE GENEALOGY OF THE Lairds of <hi>EDNEM</hi> and <hi>D<g ref="char:V">Ʋ</g>NTRETH,</hi> from the Year of God 1063, to the Year 1699: And more Particularly of <hi>D<g ref="char:V">Ʋ</g>N<g ref="char:EOLhyphen"/>TRETH,</hi> and the Fa<g ref="char:EOLhyphen"/>milies that Married with <hi>D<g ref="char:V">Ʋ</g>NTRETH,</hi> du<g ref="char:EOLhyphen"/>ring the ſaid time.</p>
+            <p>
+               <hi>GLASGOVV,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inted by <hi>Robert Sanders,</hi> One of His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Printers, <hi>ANMO DOM.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="genealogy">
+            <pb facs="tcp:175680:2"/>
+            <pb facs="tcp:175680:2"/>
+            <head>The <hi>GENEALOGY</hi> of the Lairds of <hi>Ednem</hi> and <hi>Duntreth,</hi> from the Year of God <hi>1603,</hi> to the Year <hi>1699.</hi> And more particularly of <hi>Dun<g ref="char:EOLhyphen"/>treth,</hi> and the Families that married with <hi>Duntreth,</hi> during the ſaid time.</head>
+            <p n="1">I. IN the Year of God 1063. The firſt of the Name of <hi>Edmonſtoun</hi> called Sir <hi>William Edmonſtoun</hi> (Son to the Count <hi>de Edmont</hi> a Duke in <hi>Flanders</hi>) came in to <hi>Scotland</hi> with Queen <hi>Margaret</hi> (Wite to King <hi>Malcom Ken<g ref="char:EOLhyphen"/>mure</hi>) as his ſpecial ſervant. This King <hi>Mal<g ref="char:EOLhyphen"/>com</hi> gave the ſaid Sir <hi>William</hi> Infeſtment of the Lands of <hi>Edmiſtoun</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>met</hi> for his good ſer<g ref="char:EOLhyphen"/>vice: He married and had by her one Son, called Sir <hi>William.</hi>
+            </p>
+            <p n="2">II. Sir <hi>William Edmonstoun</hi> the ſecond Laird of <hi>Edmiſtoun</hi> married and begat one Son, called Sir <hi>John Edmonſtoun.</hi> King <hi>David</hi> gives to the ſaid Sir <hi>William</hi> the Lands of the Third of <hi>Niddrie Marſhell,</hi> the Crowner-ſhip of <hi>Lothian</hi> and <hi>Constablrie</hi> of <hi>Haddingtoun;</hi> and remains with the Houſe as
+<pb n="4" facs="tcp:175680:3"/>yet, with the Lands of <hi>Ryſland</hi> and <hi>Blackburn,</hi> holden of the King.</p>
+            <p n="3">III. The third Laird of <hi>Edmistoun</hi> called, Sir <hi>John Edmonſtoun,</hi> married <hi>Margaret Stuart,</hi> Daughter to King <hi>Robert Stuart</hi> (Counteſs of <hi>Dowglas</hi>) and had by her two Sons, he got by her a Charter and Seaſin under the Great-Seal of the Barrony of <hi>Ednem,</hi> with the Gift of the Hoſpitality to Him and his Heirs.</p>
+            <p n="4">IV. The fourth Laird of <hi>Edmiſtoun,</hi> called Sir <hi>William Edmonstoun,</hi> married <hi>Margaret Mait<g ref="char:EOLhyphen"/>land,</hi> Daughter to the Laird of <hi>Lethingtoun,</hi> and had by her three Sons: King <hi>Robert Stuart</hi> gives to him a Charter and Seaſin of the Lands of <hi>Edmiſtoun,</hi> and <hi>Ednem</hi> to Him and his Heirs for ever.</p>
+            <p n="5">V. <hi>William Edmonſtoun</hi> (the firſt Laird of <hi>Duntreth</hi>) and ſecond Son to the Laird of <hi>Ed<g ref="char:EOLhyphen"/>miſtoun,</hi> married <hi>Margaret Stuart,</hi> Daughter to King <hi>Robert</hi> the Third (She was firſt Coun<g ref="char:EOLhyphen"/>teſs of <hi>Caſſills. Secondly, Counteſs</hi> of <hi>Augus. Thirdly,</hi> Lady <hi>Graham;</hi> and in her time the Lands of <hi>Duntreth</hi> were conquiſhed) he had by her one Son, and one Daughter, called <hi>Mould Edmonstoun,</hi> married to the Laird of <hi>Capring<g ref="char:EOLhyphen"/>ton,</hi> and had by him one Son, and one Daugh<g ref="char:EOLhyphen"/>ter, married to the Laird <hi>Garlies.</hi>
+            </p>
+            <p n="6">VI. The ſecond Laird of <hi>Duntreth,</hi> called Sir <hi>Archibald Edmonſtoun,</hi> married, <hi>Mauld Stuart</hi>
+               <pb n="5" facs="tcp:175680:3"/>Daughter to the Lord <hi>Evindale,</hi> and had by her ſix Sons, and two Daughters; his ſecond Son called <hi>James Edmonſtoun,</hi> married the He<g ref="char:EOLhyphen"/>retrix of <hi>Polmais:</hi> The third Son, called Mr. <hi>James Edmonstoun</hi> Parſon of <hi>Kirknezie,</hi> and Provoiſt of the Lady <hi>Kirkheugh</hi> of St. <hi>An<g ref="char:EOLhyphen"/>drews:</hi> The fourth Son called, <hi>John Edmon<g ref="char:EOLhyphen"/>ſtoun,</hi> married <hi>Stuart,</hi> Daughter to the Laird of <hi>Blackhall:</hi> His fifth Son called <hi>George Edmonſtoun:</hi> His ſixth Son called. <hi>Wil<g ref="char:EOLhyphen"/>liam Edmonſtoun,</hi> was Maſter-Houſhold to King <hi>James</hi> the <hi>Second:</hi> His Eldeſt Daughter cal<g ref="char:EOLhyphen"/>led, <hi>Mauld Edmonstoun,</hi> was Lady <hi>Oliphant,</hi> and had Iſſue: His ſecond Daughter called, <hi>Ma<g ref="char:EOLhyphen"/>ry Edmonstoun,</hi> married the Laird of <hi>Glengar<g ref="char:EOLhyphen"/>nock,</hi> and had Iſſue.</p>
+            <p n="7">VII. The third Laird of <hi>Duntreth</hi> called, Sir <hi>William Edmonstoun,</hi> married <hi>Janet Shaw,</hi> Daughter to the Laird of <hi>Sauchie,</hi> and had by her three Sons, and five Daughters, his Eldeſt Daughter called, <hi>Janet Edmonſton,</hi> married to the Earl of <hi>Montroſe,</hi> who had by him one Son called, <hi>William</hi> Earl of <hi>Montroſe</hi> and Lord <hi>Graham;</hi> the ſaid <hi>William</hi> Earl of <hi>Montroſe,</hi> married the Earl <hi>Marſhall</hi>'s Daughter, and be<g ref="char:EOLhyphen"/>gat on her three Sons and four Daughters, <hi>A<g ref="char:EOLhyphen"/>lexander</hi> Mr of <hi>Graham,</hi> and <hi>Mungo Graham,</hi> who married <hi>Margery Edmonſton,</hi> Daughter to <hi>Duntreth,</hi> and had Iſſue by her. <hi>William
+<pb n="6" facs="tcp:175680:4"/>Graham</hi> Parſon of <hi>Killearn,</hi> his eldeſt Daugh<g ref="char:EOLhyphen"/>ter called, <hi>Graham,</hi> married the Earl of <hi>Caithneſs,</hi> and had Iſſue; his ſecond Daugh<g ref="char:EOLhyphen"/>ter called. <hi>Graham,</hi> married the Earl of <hi>Tullibardin,</hi> and had Iſſue: The third Daughter called, <hi>Graham,</hi> married the Laird of <hi>Bovaird,</hi> and had Iſſue: The fourth Daughter called, <hi>Graham,</hi> mar<g ref="char:EOLhyphen"/>ried the Laird of <hi>Knockdolian,</hi> and had Iſſue: <hi>Alexander</hi> Maſter of <hi>Graham,</hi> married the Lord <hi>Fliming</hi>'s Daughter, and had Iſſue; he was ſlain at <hi>Pinkie: John</hi> Earl of <hi>Montroſe,</hi> married <hi>Jean Drummond,</hi> Daughter to the Lord <hi>Drummond,</hi> and had Iſſue; one Son, and one Daughter called, <hi>Graham,</hi> and was married to the Lord <hi>Fliming,</hi> &amp; had Iſſue: <hi>John</hi> Earl of <hi>Montroſe,</hi> married the Earl of <hi>Gowrie</hi>'s Daughter, and had Iſſue by her: <hi>Katherin Edmonstoun</hi> (ſecond Daughter to the ſaid Sir <hi>William Edmonſton</hi> of <hi>Duntreth</hi>) married the Earl of <hi>Eglintoun,</hi> who had a Daughter mar<g ref="char:EOLhyphen"/>ried to the Lord <hi>Drumlanerk,</hi> and had iſſue: <hi>Robert</hi> Earl of <hi>Eglintoun,</hi> married the Earl of <hi>Borthwick</hi>'s Daughter, and had iſſue, <hi>Montgomery,</hi> Daughter to the ſaid <hi>Robert</hi> Earl of <hi>Eglintoun,</hi> married the Lord <hi>Bargeny,</hi> and had iſſue: <hi>Robert</hi> Earl of <hi>Eglinton,</hi> mar<g ref="char:EOLhyphen"/>ried the Laird of <hi>Innerpafrey</hi>'s Daughter, and begat iſſue: The Maſter of <hi>Eglinton,</hi> married
+<pb n="7" facs="tcp:175680:4"/>
+               <hi>Campbel,</hi> Daughter to the Lord <hi>Lowdon,</hi> and had iſſue: <hi>Robert</hi> Earl of <hi>Eglin<g ref="char:EOLhyphen"/>ton,</hi> married the Lord <hi>Boyd</hi>'s Daughter, and had by her one Son and two Daughters; his eldeſt Daughter called, <hi>Montgome<g ref="char:EOLhyphen"/>ry,</hi> married the Lord <hi>Seaton,</hi> and had iſſue; his ſecond Daughter called, <hi>Montgome<g ref="char:EOLhyphen"/>ry,</hi> married the Lord <hi>Semple,</hi> and had iſſue: <hi>Heugh</hi> Earl of <hi>Eglinton</hi> died without iſſue: <hi>Marion Edmonſton</hi> (third Daughter to the ſaid Sir <hi>William Edmonston</hi> of <hi>Duntreth</hi>) mar<g ref="char:EOLhyphen"/>ried the Laird of <hi>Buchannan,</hi> and had iſſue: <hi>John</hi> Laird of <hi>Buchannan,</hi> married the Lord <hi>Livingston</hi>'s Daughter, and had iſſue: <hi>George</hi> Laird of <hi>Buchannan,</hi> married the Earl of <hi>Mon<g ref="char:EOLhyphen"/>teith</hi>'s Daughter, and had iſſue: <hi>John</hi> Laird of <hi>Buchannan,</hi> married <hi>Erskine</hi>'s Daughter to the Lord <hi>Cambskennell,</hi> and had iſſue: <hi>Margaret Edmonſton</hi> (the fourth Daugh<g ref="char:EOLhyphen"/>ter to the ſaid Sir <hi>William Edmonston</hi> of <hi>Duntreth</hi>) married the Lord <hi>Roſs,</hi> and had iſſue: <hi>John</hi> Lord <hi>Roſs,</hi> married the Earl of <hi>Len<g ref="char:EOLhyphen"/>nox</hi> Daughter, and had iſſue: <hi>James</hi> Maſter of <hi>Roſs</hi> married, and had iſſue: <hi>John</hi> Lord <hi>Roſs,</hi> married the Lord <hi>Semple</hi>'s Daughter, and had iſſue; one Son, and three Daughters, his eldeſt Daughter called <hi>Roſs,</hi> married the Laird of <hi>Craighall,</hi> and had iſſue; his ſecond Daughter called,
+<pb n="8" facs="tcp:175680:5"/>
+               <hi>Roſs,</hi> married the Laird of <hi>Aicket,</hi> and had iſſue; The third Daughter called, <hi>Roſs,</hi> married the Laird of <hi>Blair,</hi> and had iſſue: <hi>James</hi> Lord <hi>Roſs,</hi> married <hi>Raploch</hi>'s Daughter, and had by Her one Daughter called, <hi>Roſs,</hi> married to the Laird of <hi>Keir,</hi> and had iſſue: <hi>Barbara Edmonſton</hi> fifth Daugh<g ref="char:EOLhyphen"/>ter to the ſaid Sir <hi>William Edmonſtoun</hi> of <hi>Duntreth</hi>) married the Laird <hi>Muſhet,</hi> and had iſſue: <hi>Jacob Edmonſton</hi> of <hi>Ballinton</hi> (ſecond Son to the ſaid Sir <hi>William Edmonſton</hi> of <hi>Duntreth</hi>) married <hi>Agnes Riddoch,</hi> and had iſſue: <hi>James Edmonſton</hi> of <hi>Ballewon</hi> (third Son to the ſaid Sir <hi>William Edmonſton</hi> of <hi>Dun<g ref="char:EOLhyphen"/>treth</hi>) married and had iſſue.</p>
+            <p n="8">VIII. The fourth Laird of <hi>Duntreth</hi> called, Sir <hi>Archibald Edmonſton,</hi> married firſt the Laird of <hi>Lamington</hi>'s Daughter. Secondly, <hi>Katherin Forreſt.</hi> Thirdly, The Counteſs of <hi>Arroll,</hi> and had iſſue by all his three Wives; His ſecond Son called <hi>Archibald Edmonston,</hi> married the Laird of <hi>Bonhard</hi>'s Daughter, and had iſſue; His third Son called, <hi>James Ed<g ref="char:EOLhyphen"/>monſton</hi> Maſter of Horſes to King <hi>James</hi> the fifth, married <hi>Forreſter,</hi> and had iſſue; His fourth Son called, <hi>Jacob Edmonſton</hi> of <hi>Newtoun</hi> of <hi>Down,</hi> married and had iſſue; His fifth Son called, <hi>Archibald Ed<g ref="char:EOLhyphen"/>monſton</hi> of <hi>Cambusbyg</hi> married, and had one
+<pb n="9" facs="tcp:175680:5"/>Son; His ſixth Son called, <hi>Robert Edmonston;</hi> His ſeventh Son called, <hi>Mungow Edmonston;</hi> His eldeſt Daughter called, <hi>Margaret Edmon<g ref="char:EOLhyphen"/>ſton,</hi> Lady <hi>Craigarnel</hi> and had iſſue; His ſecond Daughter called, <hi>Agnes Edmonſton,</hi> married to <hi>Inchmahomo,</hi> and had iſſue; His third Daugh<g ref="char:EOLhyphen"/>ter called, <hi>Beſſie Edmonſton</hi> Lady <hi>Balvie;</hi> His fourth Daughter called, <hi>Marion Edmonſton.</hi>
+            </p>
+            <p n="9">IX. The fifth Laird of <hi>Duntreth</hi> called, Sir <hi>William Edmonston,</hi> married <hi>Stuart,</hi> Daughter to the Earl of <hi>Lennox,</hi> and had by her one Son (who died but Succeſſion) and two Daughters: Secondly, He married <hi>Mar<g ref="char:EOLhyphen"/>garet Campbell,</hi> Daughter to the Laird of <hi>Lawers,</hi> and had by Her one Son, and four Daughters; His eldeſt Daughter by his firſt Wife called, <hi>Eliz. Edmonſton,</hi> married <hi>Stirling</hi> of <hi>Ballagan,</hi> and had iſſue; His ſecond daughter by his firſt Wife called <hi>Janet Edmonſton,</hi> mar<g ref="char:EOLhyphen"/>ried <hi>Luke Stirling</hi> of <hi>Baud;</hi> His eldeſt Daughter of the ſecond Marriage called, <hi>Mar<g ref="char:EOLhyphen"/>jory Edmonſton,</hi> married <hi>Mungow Graham</hi> of <hi>Ratherneſs,</hi> and had iſſue; His third Daughter by the ſecond Wife called, <hi>Iſſobell Edmonston,</hi> married <hi>Stuart</hi> of <hi>Barſcube,</hi> and had iſſue; His fourth Daughter by his ſecond Wife called, <hi>Annabell Edmonſton,</hi> married the Laird of <hi>Glorat,</hi> and had iſſue; His fifth daughter by his ſecond Wife called, <hi>Marion Edmonſton,</hi> Firſt
+<pb n="10" facs="tcp:175680:6"/>Lady <hi>Nobleſton.</hi> Secondly, Lady <hi>Bargarran,</hi> and had iſſue.</p>
+            <p n="10">X. The ſixth Laird of <hi>Duntreth</hi> called, Sir <hi>James Edmonſton,</hi> married firſt <hi>Helen Stir<g ref="char:EOLhyphen"/>ling,</hi> Daughter to the Laird of <hi>Keir,</hi> and had by Her two Sons and four Daughters, Second<g ref="char:EOLhyphen"/>ly, He married <hi>Margaret Colquhoun,</hi> Daugh<g ref="char:EOLhyphen"/>ter to the Laird of <hi>Luſs,</hi> and had by Her one Son and five Daughters; His eldeſt Daughter by his firſt Wife called, <hi>Mary Edmonſton,</hi> firſt married to the Laird of <hi>Cunningham-head:</hi> And ſecondly, She was married to the Laird of <hi>Braco Graham,</hi> and Heir'd both the Eſtates: His ſecond Daughter by his firſt Wife called, <hi>Marjory Edmonſton,</hi> married the Laird of <hi>Coch<g ref="char:EOLhyphen"/>ney:</hi> His third Daughter by his firſt Wife cal<g ref="char:EOLhyphen"/>led <hi>Helen Edmonston,</hi> married <hi>Lennox</hi> of <hi>Branſhogle,</hi> and had iſſue: His ſecond Son by his firſt Wife called, <hi>John Edmonston,</hi> married and had iſſue: <hi>Elizabeth Edmon<g ref="char:EOLhyphen"/>ſton</hi> his eldeſt Daughter by his ſecond Wife, married <hi>James Edmonſton</hi> of <hi>Broich,</hi> but had no iſſue; His ſecond Daughter by his ſecond Wife called, <hi>Margaret Edmonſton,</hi> married His third Daughter by his ſecond Wife called, <hi>Agnes,</hi> married His fourth Daughter by his ſecond Wife called, <hi>Jean Ed<g ref="char:EOLhyphen"/>monston,</hi> married Likewayes the ſaid Sir <hi>James Edmonſton</hi> had a Daughter called, <hi>Bar<g ref="char:EOLhyphen"/>bara
+<pb n="11" facs="tcp:175680:6"/>Edmonston,</hi> married <hi>Campbel</hi> of <hi>Dowan,</hi> and had iſſue: Likewayes his Son by his ſecond Wife called, <hi>Robert Edmonſton,</hi> went over Seas, and never return'd again.</p>
+            <p n="11">XI. The ſeventh Laird of <hi>Duntreth</hi> called, <hi>William Edmonſton,</hi> married <hi>Iſſobel Hadden,</hi> Daughter to the Laird of <hi>Glennegies,</hi> and had by her five Sons and two Daughters, his eldeſt Daughter called, <hi>Helen Edmonſton,</hi> was married to <hi>John Dolloway</hi> of <hi>Bellihill <abbr>Eſq</abbr>
+               </hi> and had by her three Sons, <hi>Archibald Dolloway</hi> the eldeſt, died without iſſue, <hi>Alexander Dolloway</hi> the ſecond Son, marri<g ref="char:EOLhyphen"/>ed <hi>Anna Sparks,</hi> Daughter to Mr. <hi>Sparks</hi> of <hi>Craigfergus</hi> merchant, and had by her one Son (called, <hi>John Dolloway,</hi> who died but Iſ<g ref="char:EOLhyphen"/>ſue) and two Daughters, <hi>Helen Dolloway</hi> the Eldeſt, married to Mr. <hi>Andrew Clemens,</hi> and had Iſſue; <hi>Mary Dolloway</hi> his ſecond Daughter, married <hi>Anthony Car,</hi> merchant: <hi>Ro<g ref="char:EOLhyphen"/>bert Dolloway,</hi> the third Son married, <hi>Let<g ref="char:EOLhyphen"/>tice Dolloway,</hi> Daughter to Captain <hi>John Dolloway,</hi> and had by Her two Sons and two Daughters; His Eldeſt Son called, <hi>Alex<g ref="char:EOLhyphen"/>ander Dolloway,</hi> married <hi>Anna-Helena Ed<g ref="char:EOLhyphen"/>monston,</hi> Daughter to <hi>Duntreth,</hi> and had by Her two Sons, <hi>Robert Dolloway</hi> the Eldeſt, and <hi>Archibald</hi> the ſecond; His Eldeſt Daugh<g ref="char:EOLhyphen"/>ter called, <hi>Helen Dolloway,</hi> married
+<pb n="12" facs="tcp:175680:7"/>
+               <hi>Stuart <abbr>Eſq</abbr>,</hi> and had Iſſue; His ſecond Daugh<g ref="char:EOLhyphen"/>ter called, <hi>Anna Dolloway.</hi> Likewayes the ſaid <hi>Helen Edmonſton,</hi> Eldeſt Daughter to the ſaid <hi>William Edmonſton</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Duntreth</hi> married again, Collonel <hi>James Wallace</hi> of the Houſe of <hi>Achans</hi> but had no Iſſue: The ſecond Daugh<g ref="char:EOLhyphen"/>ter of the ſaid <hi>William Edmonſton</hi> of <hi>Dun<g ref="char:EOLhyphen"/>treth</hi> called, <hi>Jean Edmonſton</hi> married, Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Adair</hi> of <hi>Kinhilt,</hi> and had by him four Sons and three Daughters; His Eldeſt Daugh<g ref="char:EOLhyphen"/>ter called, <hi>Iſſobel Adair,</hi> married the Laird of <hi>Logan,</hi> and had Iſſue; <hi>Anna Adair</hi> the ſecond Daughter married, Mr. <hi>Kennedie</hi> Miniſter, and had Iſſue; <hi>Jean Adair</hi> married, Mr. <hi>Adair</hi> Miniſter, and had Iſſue: His Eldeſt Son called, Sir <hi>William Adair</hi> married firſt <hi>Jean Cunning<g ref="char:EOLhyphen"/>ham,</hi> daughter to the Laird of <hi>Cunningham-head,</hi> but had no Iſſue by her. Secondly, He married, <hi>Anna-Helena Scot,</hi> Daughter to Colloned <hi>Scot</hi> of <hi>Hartwood-burn,</hi> and had by him one Son called, Sir <hi>Robert Adair,</hi> who married <hi>Mar<g ref="char:EOLhyphen"/>tha Colvill,</hi> Daughter to Sir <hi>Robert Colvill</hi> of <hi>Galgorum,</hi> Knight and Barronet, and had by Her one Son called, <hi>William-Roberts A<g ref="char:EOLhyphen"/>dair;</hi> Mr. <hi>Archibald Adair,</hi> ſecond Son to the ſaid Sir <hi>Robert Adair,</hi> the Elder married and had by her one Son called. <hi>Adair;</hi> The third Son called. Mr. <hi>Alex<g ref="char:EOLhyphen"/>ander Adair,</hi> married firſt, <hi>Anna Cunningham,</hi>
+               <pb n="13" facs="tcp:175680:7"/>Daughter to the Laird of <hi>Cunningham-head.</hi> Secondly, He married <hi>Agnew,</hi> Daugh<g ref="char:EOLhyphen"/>ter to the Laird of <hi>Shochen,</hi> but had no Iſſue by either of his Wives: The fourth Son called, <hi>Robert Adair,</hi> married and had one Son called, <hi>Robert Adair. James Edmonſton</hi> ſe<g ref="char:EOLhyphen"/>cond Son to the ſaid <hi>William Edmonſton</hi> of <hi>Duntreth,</hi> married <hi>Jean Cunningham,</hi> Daugh<g ref="char:EOLhyphen"/>ter to the Laird of <hi>Cunningham-head,</hi> and had Iſſue by Her: <hi>John Edmonſton</hi> third Son to the ſaid <hi>William Edmonſton</hi> of <hi>Duntreth,</hi> married <hi>Eliz. Edmonſton,</hi> Daughter to <hi>James Edmon<g ref="char:EOLhyphen"/>ſton</hi> of <hi>Broich,</hi> and got with her both the Lands of <hi>Broich</hi> in <hi>Scotland,</hi> and the Lands of <hi>Bel<g ref="char:EOLhyphen"/>libantro</hi> in <hi>Ireland;</hi> and had by her four Sons and five Daughters; <hi>William</hi> his Eldeſt Son. <hi>James</hi> his ſecond Son, <hi>Robert</hi> his third Son, and <hi>Edmonſton</hi> his fourth Son: His Eldeſt Daughter called, <hi>Iſſobel,</hi> married to <hi>Craw<g ref="char:EOLhyphen"/>furd</hi> of <hi>Wallſton,</hi> and had Iſſue; his ſecond Daughter called, <hi>Jean;</hi> his third <hi>Mary;</hi> his fourth <hi>Helen;</hi> and his fifth <hi>Agnes,</hi> married to <hi>Andrew Adair,</hi> and had Iſſue. Secondly, The ſaid <hi>John Edmonston</hi> married, <hi>Katherine Cun<g ref="char:EOLhyphen"/>ningham</hi> of the Family of <hi>Glengarnock,</hi> and had by her five Sons and two Daughters: The Eldeſt Son called, <hi>Archibald;</hi> the ſecond <hi>John;</hi> the third Son <hi>James;</hi> the fourth Son <hi>Robert;</hi> the fifth Son <hi>Alexander:</hi> His Eldeſt Daughter
+<pb n="14" facs="tcp:175680:8"/>called, <hi>Katherine,</hi> and <hi>Anna</hi> his ſecond Daugh<g ref="char:EOLhyphen"/>ter. <hi>William Edmonſton</hi> Eldeſt Son of the ſaid <hi>John Edmonston</hi> by his firſt Wife, married <hi>Jean Buchannan</hi> of the Family of <hi>Buchannan,</hi> and had by her ſix Sons and four Daughters; <hi>Wil<g ref="char:EOLhyphen"/>liam, John, Archibald, Robert, James,</hi> and <hi>Archibald;</hi> his Daughters, <hi>Eliz. Mary, Jean</hi> &amp; <hi>Anna-Helena: James Edmonſton</hi> the third Son to the ſaid <hi>John Edmonſton</hi> by his ſecond Wife, married <hi>Margaret Lindſay,</hi> Daughter to the Laird of <hi>Dov-hill</hi> in <hi>Fyfe,</hi> and had by her two Sons and five Daughters; <hi>John</hi> and <hi>Robert, Katherine, Anna-Helena. Margaret, Eliz.</hi> and <hi>Lettice:</hi> The fourth Son to the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam Edmonſton</hi> of <hi>Duntreth,</hi> called, <hi>Robert Edmonſton,</hi> and his fifth Son called, <hi>Andrew,</hi> both Died without Iſſue.</p>
+            <p n="12">XII. The eight Laird of <hi>Duntreth</hi> called, <hi>Archibald Edmonſton,</hi> married <hi>Jean Hamil<g ref="char:EOLhyphen"/>ton,</hi> Daughter to the Laird of <hi>Hallcraig,</hi> and had by her two Sons and two Daughters; his Eldeſt Son called, <hi>William;</hi> his ſecond Son, <hi>Archibald;</hi> his Eldeſt Daughter called, <hi>Helen,</hi> married to <hi>Thomas Neivin</hi> of <hi>Monkreddin,</hi> and had Iſſue, two Sons; his ſecond Daughter cal<g ref="char:EOLhyphen"/>led, <hi>Iſſobel,</hi> Died young.</p>
+            <p n="13">XIII. The ninth Laird of <hi>Duntreth</hi> called, <hi>Archibald Edmonſton</hi> (ſecond lawfull Son to the ſaid <hi>Archibald Edmonſton</hi>) married, <hi>An<g ref="char:EOLhyphen"/>na-Helena
+<pb n="15" facs="tcp:175680:8"/>Scot,</hi> Daughter to Collonel <hi>Scot</hi> of <hi>Hartwood-burn</hi> (who was firſt married to Sir <hi>William Adair</hi> of <hi>Kinhilt</hi>) and had by her four Sons and five Daughters; his Eldeſt Son called, <hi>Archibald,</hi> his ſecond, <hi>Walter,</hi> his third, <hi>William;</hi> (all theſe Sons died young) and his fourth Son <hi>Archibald,</hi> now preſent Laird of <hi>Duntreth;</hi> his Eldeſt Daughter called, <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> married to <hi>James Montgomery</hi> of <hi>Roſa<g ref="char:EOLhyphen"/>mund <abbr>Eſq</abbr>
+               </hi> and had by her two Sons, <hi>William</hi> and <hi>Heugh;</hi> and three Daughters, <hi>Anna-Helena Eliz.</hi> and <hi>Martha:</hi> The ſecond Daughter to the ſaid <hi>Archibald Edmonſton,</hi> called <hi>Jean,</hi> and the third called, <hi>Margaret;</hi> &amp; the fourth called, <hi>Iſſobella;</hi> all theſe died young: his fifth daugh<g ref="char:EOLhyphen"/>ter called, <hi>An-Helena,</hi> married <hi>Alexander Dol<g ref="char:EOLhyphen"/>loway</hi> of <hi>Belli-hill <abbr>Eſq</abbr>:</hi> and had by her two Sons called, <hi>Robert</hi> and <hi>Archibald.</hi>
+            </p>
+            <p n="14">XIV. The tenth Laird of <hi>Duntreth</hi> called, <hi>Archibald Edmonſton.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
